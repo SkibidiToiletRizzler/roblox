@@ -1,0 +1,7 @@
+wait(0.2)
+game.ServerScriptService.Remote1:Destroy()
+print("Destroyed Anti-Cheat")
+while true do
+  print("deletecheat is running")
+  wait("5")
+  end
